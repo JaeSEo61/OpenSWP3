@@ -5,8 +5,6 @@
 #include <string.h>
 #include <time.h>
 #include <math.h>
-<<<<<<< HEAD
-
 
 void conversion(void);        // conversion.c
 int  pmsd(void);              // pmsd.c
