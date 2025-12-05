@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main()
+int rand_pw()
 {
 	srand (time(NULL));
 	int password = rand();

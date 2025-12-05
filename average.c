@@ -2,7 +2,7 @@
 
 void calcAverage();  
 
-int main() {
+/*int main() {
     int menu;
 
     printf("숫자를 입력하세요 (평균 계산기: 3): ");
@@ -16,7 +16,7 @@ int main() {
     }
 
     return 0;
-}
+}*/
 
 void calcAverage() {
     int n;
